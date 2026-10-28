@@ -1,0 +1,22 @@
+DE YOUNG STARS HOME OF RESTORATION EVANGELICAL OUTREACH
+
+CORRECTED STATIC WEBSITE PACKAGE
+
+The main website write-up is included in index.html at the ROOT of this ZIP.
+It contains OUR MISSION, OUR VISION, all seven OUR CORE BELIEFS, OUR INVITATION, BELIEVE THE MESSAGE, and SHALOM — REMAIN BLESSED.
+
+Cloudflare static upload instructions:
+1. Extract this ZIP on your device first.
+2. In Cloudflare Pages, upload the EXTRACTED FOLDER whose top level directly contains index.html, styles.css, script.js, admin.html, and the assets folder.
+3. Do not upload a parent folder that contains another nested website folder.
+4. After deployment, open the site and tap “About Our Outreach” in the navigation, or scroll down to that section.
+5. If the old version still appears, refresh the page or open the site in a private/incognito tab to check for cached content.
+
+ADMIN/BACKEND NOTE:
+This package includes admin.html as a static page, but static upload alone does not deploy or activate a secure backend/API. Do not treat the admin page as securely operational until the separate backend, database, and access controls are deployed and tested.
+
+
+CONTENT UPDATE INCLUDED
+The homepage now displays both slogans: “BELIEVE THE MESSAGE” and “JOSHUA HAMASHIAK ~ OUR HOPE AND AUTHORITY”. The Support Our Outreach section also includes: “Please contact any of our contact details for proper directions”.
+
+For Cloudflare Pages direct static upload, upload the extracted contents of this ZIP so index.html is at the root level.
