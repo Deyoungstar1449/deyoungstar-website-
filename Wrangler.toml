@@ -1,0 +1,9 @@
+name = "de-young-stars-home-of-restoration-evangelical-outreach"
+compatibility_date = "2026-10-26"
+
+[assets]
+directory = "."
+
+[[kv_namespaces]]
+binding = "CONTENT_DB"
+id = "YOUR_KV_NAMESPACE_ID"
