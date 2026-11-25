@@ -13,7 +13,7 @@ FILES / STRUCTURE
 - admin.html
 - styles.css
 - script.js
-- assets/logo.png
+- logo.png
 
 IMPORTANT DEPLOYMENT
 1. Upload the CONTENTS of this folder to the existing frontend Cloudflare Worker/Pages static-assets deployment.
